@@ -1,0 +1,3 @@
+bootstrap css
+font awsome for icons
+init.php is the instilation file
